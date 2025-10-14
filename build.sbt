@@ -13,7 +13,7 @@ ThisBuild / assemblyMergeStrategy := {
 }
 
 val ScalaTestVersion = "3.2.17"
-val ZioVersion       = "2.0.21"
+val ZioVersion       = "2.1.21"
 //val MongoScalaDriverVersion = "4.11.1"
 val ReactiveMongoVersion = "1.1.0-noshaded-RC11"
 
