@@ -21,4 +21,5 @@
 /bitvector/target/
 /pubmed-models/target/
 /pubmed-store/target/
+/pmc/target
 .env
